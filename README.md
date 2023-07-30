@@ -17,10 +17,6 @@ Here are some stats about my GitHub activity:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preizeinguuna&theme=default&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=preizeinguuna&theme=default&hide_border=false) |
 |---|---|
 
-## 🔝 Top Contributed Repo
-Check out my top contributed repository:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=preizeinguuna&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
