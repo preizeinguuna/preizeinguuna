@@ -1,5 +1,5 @@
 # Hi there :wave: my name is Inguna
-# I'm self-taught programmer from Riga, Latvia  :latvia:
+# I'm  from Riga, Latvia  :latvia:
 
 ## 🌐 Socials:
 Connect with me on these platforms:
