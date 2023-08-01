@@ -23,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src=github-readme-stats-git-master-preizeinguuna.vercel.app/api?username=preizeinguuna&show_icons=true&locale=en" alt="preizeinguuna" /></p>
 
-<p><img align="center" src=github-readme-stats-git-master-preizeinguuna.vercel.app/?user=preizeinguuna&" alt="preizeinguuna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preizeinguuna&" alt="preizeinguuna" /></p>
 
-Feel free to explore my repositories and reach out to me on LinkedIn or Codepen if you have any questions or want to collaborate on any projects. Happy coding! 🚀
