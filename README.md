@@ -39,6 +39,5 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 
 <a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preizeinguuna&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=preizeinguuna&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/preizeinguuna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preizeinguuna&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
