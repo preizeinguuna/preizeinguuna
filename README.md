@@ -14,7 +14,7 @@ Here are the technologies and languages I work with:
 ## 📊 GitHub Stats:
 Here are some stats about my GitHub activity:
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preizeinguuna&theme=default&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak Stats](github-readme-stats-eight-pi-26.vercel.app/?user=preizeinguuna&theme=default&hide_border=false) |
+| ![GitHub Stats](github-readme-stats-git-master-preizeinguuna.vercel.app/api?username=preizeinguuna&theme=default&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak Stats](github-readme-stats-eight-pi-26.vercel.app/?user=preizeinguuna&theme=default&hide_border=false) |
 |---|---|
 
 
