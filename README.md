@@ -7,7 +7,7 @@ Hi 👋 My name is Inguna Preize
 
 <p align="left"> <a href="https://www.codepen.io/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ingunapreize" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+### A little about me
 From early 2020 until the summer of 2021, I embarked on an exciting journey into the world of programming by enrolling in specialized courses at LTPC. These courses provided me with a solid foundation, and upon successful completion, I proudly earned the title of "Programming Technician." 
 
 However, my hunger for knowledge didn't stop there. Eager to explore more, I took the initiative to expand my programming horizons independently. With great determination, I delved into various programming languages and cutting-edge techniques, including HTML, CSS, PHP, JS, and Bootstrap. This self-directed learning journey has been an exhilarating experience, fueling my passion for programming and empowering me with valuable skills to tackle diverse challenges in the field. 
@@ -38,10 +38,10 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats-git-master-preizeinguuna.vercel.app/api?username=preizeinguuna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="preizeinguuna's GitHub stats" /></a>
+<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats.vercel.app/api?username=preizeinguuna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="preizeinguuna's GitHub stats" /></a>
 
-<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats-git-master-preizeinguuna.vercel.app/?user=preizeinguuna&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preizeinguuna&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats-git-master-preizeinguuna.vercel.app/graph?username=preizeinguuna&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=preizeinguuna&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/preizeinguuna" align="left"><img src="https://github-readme-stats-git-master-preizeinguuna.vercel.app/top-langs/?username=preizeinguuna&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/preizeinguuna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preizeinguuna&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
