@@ -1,7 +1,8 @@
 Hi 👋 My name is Inguna Preize
 ==============================
 
-From early 2020 until the summer of 2021, I embarked on an exciting journey into the world of programming by enrolling in specialized courses at LTPC. These courses provided me with a solid foundation, and upon successful completion, I proudly earned the title of "Programming Technician." However, my hunger for knowledge didn't stop there. Eager to explore more, I took the initiative to expand my programming horizons independently. With great determination, I delved into various programming languages and cutting-edge techniques, including HTML, CSS, PHP, JS, and Bootstrap. This self-directed learning journey has been an exhilarating experience, fueling my passion for programming and empowering me with valuable skills to tackle diverse challenges in the field. Continuing to learn and grow in the ever-evolving realm of programming remains my ultimate goal. I am excited to embrace new opportunities and refine my expertise further, contributing to the dynamic world of technology with creativity and innovation.
+From early 2020 until the summer of 2021, I embarked on an exciting journey into the world of programming by enrolling in specialized courses at LTPC. These courses provided me with a solid foundation, and upon successful completion, I proudly earned the title of "Programming Technician."
+However, my hunger for knowledge didn't stop there. Eager to explore more, I took the initiative to expand my programming horizons independently. With great determination, I delved into various programming languages and cutting-edge techniques, including HTML, CSS, PHP, JS, and Bootstrap. This self-directed learning journey has been an exhilarating experience, fueling my passion for programming and empowering me with valuable skills to tackle diverse challenges in the field. Continuing to learn and grow in the ever-evolving realm of programming remains my ultimate goal. I am excited to embrace new opportunities and refine my expertise further, contributing to the dynamic world of technology with creativity and innovation.
 
 *   🌍  I'm based in Riga , Latvia
 *   ✉️  You can contact me at [preizeinguna@gmail.com](mailto:preizeinguna@gmail.com)### Skills 
@@ -20,10 +21,9 @@ From early 2020 until the summer of 2021, I embarked on an exciting journey into
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
-                  ### Socials
+                     ### Socials
                   
-                  
-                <p align="left">
+                  <p align="left">
                           
                       <a href="https://www.codepen.io/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
                           
