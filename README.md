@@ -20,7 +20,8 @@ Here are some stats about my GitHub activity:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=preizeinguuna&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=preizeinguna&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
