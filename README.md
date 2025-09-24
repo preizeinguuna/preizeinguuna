@@ -51,34 +51,12 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 ### Digital Badges
 
 - View all my verified digital badges on [Credly](https://www.credly.com/users/inguna-preize)
+- View all my verified digital badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
+- **View all my Pluralsight achievements:**  
+  [Pluralsight Achievements](https://app.pluralsight.com/achievements)
 
 ---
 
-#### Recently Unlocked Badges
-
-- **Integrating Generative AI in DevOps Pipelines**  
-  ![Integrating Generative AI in DevOps Pipelines](badges/recent1.png)
-
-- **Learn Badge 1**  
-  ![Learn 1](badges/learn1.png)
-
-- **Learn Badge 2**  
-  ![Learn 2](badges/learn2.png)
-
-- **Learn Badge 3**  
-  ![Learn 3](badges/learn3.png)
-
-- **Learn Badge 4**  
-  ![Learn 4](badges/learn4.png)
-
-- **Learn Badge 5**  
-  ![Learn 5](badges/learn5.png)
-
-See all my badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
-
-**View all my Pluralsight achievements:**  
-[Pluralsight Achievements](https://app.pluralsight.com/achievements)
----
 
 ### GitHub Stats
 
