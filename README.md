@@ -4,14 +4,6 @@ Hi 👋 My name is Inguna Preize
 * 🌍  I'm based in Riga, Latvia  
 * 📫  You can contact me at [preizeinguna@gmail.com](mailto:preizeinguna@gmail.com)
 
-### Find me here
-<p align="left"> 
-  <a href="https://www.codepen.io/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
-  <a href="https://www.dev.to/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/preizeinguuna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/ingunapreize" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
 ---
 
 ### A little about me
@@ -20,6 +12,8 @@ From early 2020 until the summer of 2021, I embarked on an exciting journey into
 However, my hunger for knowledge didn't stop there. Eager to explore more, I took the initiative to expand my programming horizons independently. With great determination, I delved into various programming languages and cutting-edge techniques, including HTML, CSS, PHP, JS, and Bootstrap.  
 
 In addition to formal studies, I have successfully completed several **professional certificates on Coursera** and freeCodeCamp, covering **IT Support, Networking, Microsoft Office 365, and Web Development**.  
+
+I actively pursue further learning through platforms like Pluralsight and Credly, earning digital badges and skill achievements along the way.
 
 Continuing to learn and grow in the ever-evolving realm of programming remains my ultimate goal. I am excited to embrace new opportunities and refine my expertise further, contributing to the dynamic world of technology with creativity and innovation.
 
@@ -43,7 +37,7 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 
 ---
 
-### Certifications
+### Licenses & Certifications
 
 - [IBM IT Support](https://coursera.org/share/efa9bd3a59c8ee2e6c1374974dec1e98) – IBM (Coursera), Apr 2025  
 - [Introduction to Networking](https://coursera.org/share/c425760568437acf1b28cae8e80cf5eb) – NVIDIA (Coursera), Apr 2025  
@@ -54,9 +48,41 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 
 ---
 
-### Badges
+### Digital Badges
 
-<b>My GitHub Stats</b>  
+- View all my verified digital badges on [Credly](https://www.credly.com/users/inguna-preize)
+<!-- Optionally, showcase a few badge images from Credly here -->
+
+---
+
+### Pluralsight Achievements & Badges
+
+I’m an active learner on Pluralsight, constantly exploring new technologies and completing skill paths. Here are some highlights from my Pluralsight profile:
+
+#### Recently Unlocked Badges
+![Integrating Generative AI in DevOps Pipelines](IMAGE_2_URL)  
+![Integrating AI Agents into Development](IMAGE_2_URL)
+
+#### Explore New Things
+![Solar Explorer](IMAGE_3_URL) ![Stellar Explorer](IMAGE_3_URL) ![Outsite Explorer](IMAGE_3_URL)
+
+#### Completion Achievements
+*(See image 1 for a full list of achievements!)*  
+I’ve completed many skill paths such as:
+- Integrating Generative AI in DevOps Pipelines
+- Integrating AI Agents into Development
+- Cloud Fundamentals
+- JavaScript Fundamentals
+- Python for Beginners
+- REST Fundamentals
+- And more...
+
+**View all my Pluralsight achievements:**  
+[Pluralsight Achievements](https://app.pluralsight.com/achievements)
+
+---
+
+### GitHub Stats
 
 <a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats.vercel.app/api?username=preizeinguuna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="preizeinguuna's GitHub stats" /></a>
 
