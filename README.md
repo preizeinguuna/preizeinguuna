@@ -60,7 +60,7 @@ I’m an active learner on Pluralsight, constantly exploring new technologies an
 
 #### Recently Unlocked Badges
 
-<img src="badges/recent1.png" width="180"/> <img src="badges/learn1.png" width="180"/>
+<img src="badges/recent1.png" width="180"/> 
 
 See all my badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
 
