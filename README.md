@@ -59,7 +59,8 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 I’m an active learner on Pluralsight, constantly exploring new technologies and completing skill paths.
 
 #### Recently Unlocked Badges
-![Integrating Generative AI in DevOps Pipelines](badges/recent1.png)
+
+<img src="badges/recent1.png" width="180"/> <img src="badges/learn1.png" width="180"/>
 
 See all my badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
 
