@@ -51,31 +51,15 @@ Continuing to learn and grow in the ever-evolving realm of programming remains m
 ### Digital Badges
 
 - View all my verified digital badges on [Credly](https://www.credly.com/users/inguna-preize)
-<!-- Optionally, showcase a few badge images from Credly here -->
 
 ---
 
 ### Pluralsight Achievements & Badges
 
-I’m an active learner on Pluralsight, constantly exploring new technologies and completing skill paths. Here are some highlights from my Pluralsight profile:
+I’m an active learner on Pluralsight, constantly exploring new technologies and completing skill paths.
 
 #### Recently Unlocked Badges
-![Integrating Generative AI in DevOps Pipelines](IMAGE_2_URL)  
-![Integrating AI Agents into Development](IMAGE_2_URL)
-
-#### Explore New Things
-![Solar Explorer](IMAGE_3_URL) ![Stellar Explorer](IMAGE_3_URL) ![Outsite Explorer](IMAGE_3_URL)
-
-#### Completion Achievements
-*(See image 1 for a full list of achievements!)*  
-I’ve completed many skill paths such as:
-- Integrating Generative AI in DevOps Pipelines
-- Integrating AI Agents into Development
-- Cloud Fundamentals
-- JavaScript Fundamentals
-- Python for Beginners
-- REST Fundamentals
-- And more...
+![Integrating Generative AI in DevOps Pipelines](badges/recent1.png)
 
 **View all my Pluralsight achievements:**  
 [Pluralsight Achievements](https://app.pluralsight.com/achievements)
