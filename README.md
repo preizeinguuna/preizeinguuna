@@ -61,6 +61,8 @@ I’m an active learner on Pluralsight, constantly exploring new technologies an
 #### Recently Unlocked Badges
 ![Integrating Generative AI in DevOps Pipelines](badges/recent1.png)
 
+See all my badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
+
 **View all my Pluralsight achievements:**  
 [Pluralsight Achievements](https://app.pluralsight.com/achievements)
 
