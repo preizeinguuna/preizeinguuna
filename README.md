@@ -1,9 +1,12 @@
 Hi 👋 My name is Inguna Preize
 ==============================
+🎓 Certified Programming Technician (LTPC Graduate)
 
-* 🌍  I'm based in Riga, Latvia  
-* 📫  You can contact me at [preizeinguna@gmail.com](mailto:preizeinguna@gmail.com)
+🌍 Based in Riga, Latvia
 
+📫 Contact me: preizeinguna@gmail.com
+
+🎮 Currently diving deep into Game Dev (Unity & C#) and 3D Art (Blender)
 ---
 
 ### A little about me
