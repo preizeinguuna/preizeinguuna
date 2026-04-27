@@ -10,16 +10,14 @@ Hi 👋 My name is Inguna Preize
 
 ---
 
-### A little about me
-From early 2020 until the summer of 2021, I embarked on an exciting journey into the world of programming by enrolling in specialized courses at LTPC. These courses provided me with a solid foundation, and upon successful completion, I proudly earned the title of "Programming Technician."  
+### 🚀 About Me
+I am a qualified Programming Technician with a solid foundation in software development and IT systems. While my journey began with web technologies and database management, I am now channeling my expertise into game development and 3D modeling.
 
-However, my hunger for knowledge didn't stop there. Eager to explore more, I took the initiative to expand my programming horizons independently. With great determination, I delved into various programming languages and cutting-edge techniques, including HTML, CSS, PHP, JS, and Bootstrap.  
+Educational Background: Completed intensive professional studies at LTPC (2020-2021), earning my technician degree.
 
-In addition to formal studies, I have successfully completed several **professional certificates on Coursera** and freeCodeCamp, covering **IT Support, Networking, Microsoft Office 365, and Web Development**.  
+Continuous Learning: Beyond my formal degree, I've earned professional certifications from Google, IBM, and Microsoft via Coursera and freeCodeCamp.
 
-I actively pursue further learning through platforms like Pluralsight and Credly, earning digital badges and skill achievements along the way.
-
-Continuing to learn and grow in the ever-evolving realm of programming remains my ultimate goal. I am excited to embrace new opportunities and refine my expertise further, contributing to the dynamic world of technology with creativity and innovation.
+Goal: To bridge the gap between technical programming and creative 3D environments, building interactive experiences that innovate and inspire.
 
 ---
 
