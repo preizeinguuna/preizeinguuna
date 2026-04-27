@@ -49,7 +49,7 @@ I am a qualified **Programming Technician** with a solid foundation in software 
 ### 🏅 Digital Badges & Achievements
 * **Professional Certifications:** [View on Credly](https://www.credly.com/users/inguna-preize) (IT Support, Networking, etc.)
 * **Unity Specialization:** [View on Credly](https://www.credly.com/users/inguna-preize.dcb6f2d7) (Game Dev specific badges)
-* **Learning Progress:** [Pluralsight Profile][(https://app.pluralsight.com/achievements)) (or view [screenshots](./badges) in this repo)
+* **Learning Progress:** [Pluralsight Achievements](./badges) (Screenshots of completed tracks)
 
 
 ### GitHub Stats
