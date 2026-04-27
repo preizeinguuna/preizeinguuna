@@ -7,6 +7,7 @@ Hi 👋 My name is Inguna Preize
 📫 Contact me: preizeinguna@gmail.com
 
 🎮 Currently diving deep into Game Dev (Unity & C#) and 3D Art (Blender)
+
 ---
 
 ### A little about me
