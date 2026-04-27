@@ -20,44 +20,55 @@ Continuous Learning: Beyond my formal degree, I've earned professional certifica
 Goal: To bridge the gap between technical programming and creative 3D environments, building interactive experiences that innovate and inspire.
 
 ---
+### 🛠 Skills & Technologies
 
-### Skills and Technologies
+**Main Tech Stack (Unity & Game Dev):**
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="38" height="38" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="38" height="38" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="38" height="38" alt="Blender" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="38" height="38" alt="Git" />
 </p>
 
----
+**Web Foundations:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="34" height="34" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="34" height="34" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" height="34" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="34" height="34" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="34" height="34" alt="MySQL" />
+</p>
 
-### Licenses & Certifications
-
-- [IBM IT Support](https://coursera.org/share/efa9bd3a59c8ee2e6c1374974dec1e98) – IBM (Coursera), Apr 2025  
-- [Introduction to Networking](https://coursera.org/share/c425760568437acf1b28cae8e80cf5eb) – NVIDIA (Coursera), Apr 2025  
-- [Master Microsoft Office 365 and Power Platform Specialization](https://coursera.org/share/5ae6ace28afb6f588d0882a9fba8cc29) – Microsoft (Coursera), Apr 2025  
-- [Google IT Support Specialization](https://coursera.org/share/bcabcbf790f3f005654efb7f63a2475d) – Google (Coursera), Mar 2025  
-- [Microsoft IT Support Specialist Specialization](https://coursera.org/share/1eaf82dd14e3a26850675921de097c27) – Microsoft (Coursera), Mar 2025  
-- [Responsive Web Design](https://freecodecamp.org/certification/fcc04e86bd1-878c-43f1-98c7-fda52fe50b01/responsive-web-design) – freeCodeCamp, Aug 2023  
-
----
-
-### Digital Badges
-
-- View all my verified digital badges on [Credly](https://www.credly.com/users/inguna-preize)
-- View all my verified digital badges in the [badges folder](https://github.com/preizeinguuna/preizeinguuna/tree/main/badges)
-- **View all my Pluralsight achievements:**  
-  [Pluralsight Achievements](https://app.pluralsight.com/achievements)
+> **Familiar with:** C++, Python (Django/Flask), PHP, Linux (Ubuntu), Azure & MS SQL.
 
 ---
+
+### 🕹 My Projects
+* **[Multi-Scene Showcase](https://play.unity.com/en/games/a8c7100b-38bf-4d94-b7ab-1af0ff45808d/multi-scene-showcase)** – A collection of interactive scenes and mechanics built in Unity.
+* **Match3 Mobile Game** *(In Progress)* – Currently developing a classic Match3 puzzle game optimized for mobile devices.
+* **[Unity Play Profile](https://play.unity.com/en/user/22d4bd80-8772-4e47-8a7e-18025f6b7a51)** – Check out my latest web-builds and experiments.
+
+---
+
+### 📜 Licenses & Certifications
+* **Google, IBM & Microsoft** – IT Support Specializations
+* **NVIDIA** – Introduction to Networking
+* **freeCodeCamp** – Responsive Web Design
+* **Microsoft** – Office 365 & Power Platform Specialization
+
+---
+
+### 🏅 Digital Badges & Achievements
+* **Credly Profiles:** [General Badges](https://www.credly.com/users/inguna-preize) | [Unity Specific Badges](https://www.credly.com/users/inguna-preize.dcb6f2d7)
+* **Local Repository:** [View Badge Screenshots](./badges)
+* **Learning Progress:** [Pluralsight Achievements](https://app.pluralsight.com/achievements)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats.vercel.app/api?username=preizeinguuna&show_icons=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true" alt="Stats" /></a>
+</p>
 
 
 ### GitHub Stats
