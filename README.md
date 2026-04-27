@@ -1,26 +1,3 @@
-Hi 👋 My name is Inguna Preize
-==============================
-🎓 Certified Programming Technician (LTPC Graduate)
-
-🌍 Based in Riga, Latvia
-
-📫 Contact me: preizeinguna@gmail.com
-
-🎮 Currently diving deep into Game Dev (Unity & C#) and 3D Art (Blender)
-
----
-
-### 🚀 About Me
-I am a qualified Programming Technician with a solid foundation in software development and IT systems. While my journey began with web technologies and database management, I am now channeling my expertise into game development and 3D modeling.
-
-Educational Background: Completed intensive professional studies at LTPC (2020-2021), earning my technician degree.
-
-Continuous Learning: Beyond my formal degree, I've earned professional certifications from Google, IBM, and Microsoft via Coursera and freeCodeCamp.
-
-Goal: To bridge the gap between technical programming and creative 3D environments, building interactive experiences that innovate and inspire.
-
----
-### 🛠 Skills & Technologies
 # Hi 👋 My name is Inguna Preize
 ==============================
 
