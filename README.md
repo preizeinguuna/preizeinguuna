@@ -6,14 +6,11 @@
 - 📫 Contact: [preizeinguna@gmail.com](mailto:preizeinguna@gmail.com) | [LinkedIn](#)
 
 ---
-
 ### 🚀 About Me
-Qualified Programming Technician actively practicing C# and Unity by building and developing playable games. Experienced in creating basic 3D assets in Blender to support game creation.
-
----
+Qualified Programming Technician actively practicing C# and Unity by building playable games. My Unity foundation is backed by 5 completed Unity Learn pathways, including Junior Programmer, Game Development, Creative Core, and VR Development. Experienced in creating basic 3D assets in Blender to support game creation.---
 
 ### 🛠 Skills
-* **Game Dev:** Unity, C#, Object-Oriented Programming (OOP)
+* **Game Dev:** Unity, C#, Object-Oriented Programming (OOP), **VR Fundamentals (Unity Learn)**
 * **3D Art:** Blender (Modeling & asset preparation)
 * **Tools:** Git, GitHub Desktop
 * **Foundations:** Python, C++, HTML/CSS (Secondary skills)
@@ -27,8 +24,9 @@ Qualified Programming Technician actively practicing C# and Unity by building an
 ---
 
 ### 📜 Certifications & Badges
-* **Unity Specialization:** [View on Credly](https://www.credly.com/users/inguna-preize.dcb6f2d7)
-* **IT Foundations & Core Skills:** [View on Credly](https://www.credly.com/users/inguna-preize)
+* **Unity Learn Pathways:** Completed *Junior Programmer*, *Game Development*, *VR Development*, *Creative Core*, and *Unity Essentials*.
+* **Unity Credly Profile:** [View Badges on Credly](https://www.credly.com/users/inguna-preize.dcb6f2d7)
+* **IT Foundations:** [View Professional Badges on Credly](https://www.credly.com/users/inguna-preize)
 ### GitHub Stats
 
 <a href="http://www.github.com/preizeinguuna"><img src="https://github-readme-stats.vercel.app/api?username=preizeinguuna&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="preizeinguuna's GitHub stats" /></a>
