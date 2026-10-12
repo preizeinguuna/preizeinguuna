@@ -5,9 +5,10 @@
 - 🌍 Based in Riga, Latvia | Open to remote / international roles
 - 📫 Contact: [preizeinguna@gmail.com](mailto:preizeinguna@gmail.com) | [LinkedIn](#)
 
----
 ### 🚀 About Me
-Qualified Programming Technician actively practicing C# and Unity by building playable games. My Unity foundation is backed by 5 completed Unity Learn pathways, including Junior Programmer, Game Development, Creative Core, and VR Development. Experienced in creating basic 3D assets in Blender to support game creation.---
+Qualified Programming Technician actively practicing C# and Unity by building playable games. My Unity foundation is backed by 5 completed Unity Learn pathways, including Junior Programmer, Game Development, Creative Core, and VR Development. Experienced in creating basic 3D assets in Blender to support game creation.
+
+---
 
 ### 🛠 Skills
 * **Game Dev:** Unity, C#, Object-Oriented Programming (OOP), **VR Fundamentals (Unity Learn)**
