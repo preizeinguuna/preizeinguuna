@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-Qualified Programming Technician transitioning into **game development** and **interactive 3D environments**. Passionate about bridging technical logic (C# / Unity) with creative assets (Blender).
+Qualified Programming Technician actively practicing C# and Unity by building and developing playable games. Experienced in creating basic 3D assets in Blender to support game creation.
 
 ---
 
